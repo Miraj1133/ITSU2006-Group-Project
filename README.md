@@ -1,4 +1,5 @@
 # ITSU2006-Group-Project
+
 Initial repository setup
 Added project scope statement
 Updated WBS section
